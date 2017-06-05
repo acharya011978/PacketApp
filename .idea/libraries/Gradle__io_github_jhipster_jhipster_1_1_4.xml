@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.jhipster:jhipster:1.1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.4/dbbe94d4275c77f407c05984911ed5318f48201c/jhipster-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.4/437e1363e1f8430fcee4ad4e29ebf23f442d634a/jhipster-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
